@@ -2,10 +2,10 @@
 🟦 STEP 1 — Install Zerotier on Raspberry Pi 5
 
 Run these commands on Pi:
-
+```
 curl -s https://install.zerotier.com | sudo bash
 sudo zerotier-cli join <NETWORK_ID>
-
+```
 
 Check if connected:
 
